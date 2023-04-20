@@ -1,0 +1,22 @@
+.colorPicker{
+    display: grid;
+    align-items: center;
+    place-content: center;
+    height: 100vh;
+}
+
+#colorPickerFG{
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#colorPicker{
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#section{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
